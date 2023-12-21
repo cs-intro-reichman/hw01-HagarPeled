@@ -10,6 +10,6 @@ public class Triangle {
 		int c= Integer.parseInt(args[2]);
 		boolean result= ((a+b)>c); 
 		// Put your code here	
-		System.out.println(a + ", " + b + " , " + c + " : " + result);
+		System.out.println(a + ", " + b + " , " + c + " :" + result);
 	}
 }
